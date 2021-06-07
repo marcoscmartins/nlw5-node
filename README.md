@@ -44,8 +44,6 @@
 ##### [Socket.io](https://socket.io/)
 `yarn add socket.io @types/socket.io -D`
 `yarn add socket.io-client`
-##### []()
-
 
 ### Pré-requisitos
 
